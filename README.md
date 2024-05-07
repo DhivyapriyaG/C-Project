@@ -1,6 +1,6 @@
 # Bus Booking System
 
-This is a simple console-based Bus Booking System implemented in C. It allows users to sign up, sign in, book seats, cancel bookings, view booking history, and print bill receipts. The system also provides graphical representation of available seats on a bus.
+This is Bus Booking System implemented in C. It allows users to sign up, sign in, book seats, cancel bookings, view booking history, and print bill receipts. The system also provides graphical representation of available seats on a bus.
 
 ## Features
 
@@ -36,7 +36,7 @@ This is a simple console-based Bus Booking System implemented in C. It allows us
 
 ## Contributors
 
-- DhivyapriyaG - Role (e.g., Developer, Designer)
+- Dhivyapriya G(https://github.com/DhivyapriyaG) - Role Developer 
 
 ## License
 
